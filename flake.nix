@@ -28,7 +28,7 @@
     fzf-tab = { url = "github:Aloxaf/fzf-tab"; flake = false; };
     teal = { url = "github:teal-language/tl"; flake = false; };
     unclutter-xfixes-nowrep = { url = "github:nowrep/unclutter-xfixes"; flake = false; };
-    themer-lua-nvim = { url = "github:JavaCafe01/themer.lua/dev"; flake = false; };
+    themer-lua-nvim = { url = "github:ThemerCorp/themer.lua/"; flake = false; };
     galaxyline-nvim = { url = "github:NTBBloodbath/galaxyline.nvim"; flake = false; };
     sworkstyle = { url = "github:Lyr-7D1h/swayest_workstyle"; flake = false; };
 
